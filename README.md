@@ -6,7 +6,7 @@ hUX2MCB is still down but yk what ISNT DOWN\
 
 speaking of question\
 lemme pull out the EVIL faq cause noone gives a shit so i have to emulate my own faq\
-WARNING\
+WARNING
 ### ***THE HUMOUR IS LIKE A LITTLE STRONG AND THERES DIALOG I THOUGHT THAT WAS FUNNY SO BEWARE OF THAT OR SOMETHING IG***
 
 ## WHAT THE FUCK IS THIS???
@@ -23,7 +23,7 @@ i dont wanna host a ngrok/node server on hUX2PCC when a static service already d
 
 #### IF IT DOES IT MORE EFFECTIVELY, WHY NOT???
 cause it has an 11 year old setup with a thermal paste amount thats the size of my f[REDACTED]n thats being held on by sticks and stones that break my bones an- wait what they shouldnt be there
-### SO UNFAMILY FRIENDLY FOR A README???\
+### SO UNFAMILY FRIENDLY FOR A README???
 idk go cry in that corner over there
 
 if you're genuinely curious, idk i just go with the flow and go where people go\
@@ -65,11 +65,11 @@ is this what
 considering its wizzy wig... wizzy's wig? (who the fuck is wizzy? (she had a wig??) markdown shut UP before i mark YOU down (woah readme we're in public) even better 👅 (YO WHAT))\
 not really
 
-### CONTRIBUTABLE\
+### CONTRIBUTABLE
 i mean yeah hit me up on hUhUHuHuBCPCC -u 3474 && !a, not -u !3474 && a (yes this is a thing go ask hUX2PCC somehow) when it comes out about the same time when gta 6 does\
 or discord (marisrandom), that works too
 
-### SECURE\
+### SECURE
 prolly not but who cares its a fucking homepage\
 if you ddos it, everyone point and laugh this guy dont got a life\
 like touch grass
