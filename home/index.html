@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>00/home</title>
@@ -8,12 +8,25 @@
         background-color: black;
         color: white
     }
-        ab {background-color:black;color:lightgrey}
-        ab:hover {background-color:d3d3d380;color:black}
+        .ab {background-color:d3d3d340;color:lightgrey}
+        .ab:hover {background-color:d3d3d380;color:black}
     </style>
 </head>
 <body>
     <p>home sweet home or som</p>
-    <ab href='/'>heres a button that does NOTHING useful!</ab>
+    <button class="ab" href='/'>heres a button that does NOTHING useful!</ab>
+    <button class="ab" onclick="ytho()">but why isnt it useful if it does something</ab>
+    <div id="xplain" style="display:none;">
+        <p>ok so basically it redirects you to / (not /00) which is always an error since you cant edit there (its like game.Parent in roblox terms so thats why</p>
+        <button class="ab" onclick="okthx()">ok you can go now thanks</button>
+    </div>
+    <script>
+        function ytho() {
+            document.getElementById('xplain').style.display = 'block';
+        }
+        function okthx() {
+            document.getElementById('xplain').style.display = 'none';
+        }
+    </script>
 </body>
 </html>
